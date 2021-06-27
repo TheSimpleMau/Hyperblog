@@ -8,6 +8,7 @@ En este curso vemos muchas cosas como:
 * más cosas
 * aún más cosas increibles
 * y mucho de git y github
+* Creado por mi uatafac
 
 #Super importante
 
