@@ -9,6 +9,6 @@ En este curso vemos muchas cosas como:
 * aún más cosas increibles
 * y mucho de git y github
 
-##Super importante
+#Super importante
 
 Y como recordatorio personal **esto es una mamada** nunca, jamás de los jamases tengo que hacerle caso real a este ejemplo, solo para saber que esto es una buena practica para mis códigos y que esto es un ejemplo de un curos. 💙
