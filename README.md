@@ -9,6 +9,7 @@ En este curso vemos muchas cosas como:
 * aún más cosas increibles
 * y mucho de git y github
 * Creado por mi uatafac
+* Incluye ejemplos de windows, linux y mac (aunque yo solo uso mac xD)
 
 #Super importante
 
