@@ -10,6 +10,7 @@ En este curso vemos muchas cosas como:
 * y mucho de git y github
 * Creado por mi uatafac
 * Incluye ejemplos de windows, linux y mac (aunque yo solo uso mac xD)
+* Disponible solo para mi
 
 #Super importante
 
